@@ -5,40 +5,48 @@ Overview
 The dataset used for these visualizations includes the following columns:
 
 Year: The year of the observation.
+
 Month: The month of the observation.
+
 Tmax: Maximum temperature in Celsius.
+
 Tmin: Minimum temperature in Celsius.
+
 Rain: Amount of rainfall in millimeters.
+
 Sun: Hours of sunshine.
-Visualizations
+
+
+### Visualizations
 The following visualizations are included in this repository:
 
 Line Plots:
-
 Sun values across months.
 Multiple variables (Sun, Rain, Tmax, Tmin) across months.
 Tmin & Sun values across months with different styles and line properties.
 Rain values across months with different line styles and colors.
 Multiple variables (Sun, Rain, Tmax, Tmin) with various line styles and markers.
-Bar Charts:
 
+Bar Charts:
 Sun values across months.
 Multiple variables (Sun, Rain, Tmax, Tmin) across months.
 Rain, Tmin, and Tmax values across months.
 Various color schemes for different variables.
+
 Scatter Plots:
-
 Rain values across months with custom color and marker properties.
-Pie Charts:
 
+Pie Charts:
 Pie charts for each weather metric.
-Data
+
+### Data
 The weather data is sourced from the following CSV file: London 2018 Weather Data.
+
 Data Link 
 
           https://raw.githubusercontent.com/alanjones2/dataviz/master/london2018.csv
 
-Usage
+### Usage
 Clone the Repository:
 
     git clone https://github.com/MehwishAlam/datavisualization.git
